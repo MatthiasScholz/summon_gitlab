@@ -1,3 +1,4 @@
 .env
 **/.DS_Store
 /summon-gitlab
+app.coverage
